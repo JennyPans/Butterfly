@@ -21,7 +21,7 @@ namespace Butterfly
 			if(!sounds.empty())
 				sounds.clear();
 
-			if(!sounds.empty())
+			if(!musics.empty())
 				musics.clear();
 		}
 	}
